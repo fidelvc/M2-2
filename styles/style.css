@@ -205,7 +205,7 @@ p {
 
 .article{
     width: 16rem;
-    background-color: darkgray;
+    background-color: whitesmoke;
     border-radius: 0.5rem;
     float: left;
     margin: 1.3rem;
@@ -223,7 +223,7 @@ p {
 
 .footer {
 
-    background-color: darkgray;
+    background-color: lightgrey;
     margin: 1rem 0;
 }
 address{
